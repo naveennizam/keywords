@@ -17,5 +17,13 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "\"# keywords\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveennizam/keywords.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naveennizam/keywords/issues"
+  },
+  "homepage": "https://github.com/naveennizam/keywords#readme"
 }
